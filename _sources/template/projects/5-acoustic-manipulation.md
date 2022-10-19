@@ -1,14 +1,16 @@
 # Acoustic Manipulation
 
+
+
 ## Brief Description
 A few sentences describing what this research area is.
 
 ## Associated Researchers
 - Luke Cox
 
-- Riaz
+- Riaz Pervez
 
-- Mario
+- Mario Ortega Sandoval
 
 - Bruce Drinkwater
 
