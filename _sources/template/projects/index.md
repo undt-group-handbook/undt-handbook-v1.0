@@ -1,10 +1,10 @@
-# Our Projects
+# Lab Area
 
-This section contains pages for the over-arching research themes being worked on in our group. 
+This section contains pages for the different lab areas in our group. 
 Each page describes:
- - A brief description of the theme
+ - A brief description of the lab area
  - The associated researchers
- - The research topics in this theme (current and planned)
- - Publications
+ - Publications and open-access presentations
+ - Relevant lab devices
  - Collaborators
 
