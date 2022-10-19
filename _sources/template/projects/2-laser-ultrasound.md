@@ -1,5 +1,5 @@
 (laser-ultrasound)=
-## Laser ultrasound remote inspection
+## Laser room
 
 ## Brief Description
 The BLU (Bristol Laser Ultrasound) Team tackles the challenges associated with remote non-destructive evaluation, where the transmission and the reception of ultrasonic signals are achieved using lasers. The non-contact, couplant-free nauture of laser ultrasound enables inspection in hazardous environment (high temperature, radioactive), and the flexibility of laser scanning allows the inspection of complex geometries. This is a collaborative project with University of Strathclyde.
