@@ -4,7 +4,7 @@
 ### Brief Description
 <!--The BLU (Bristol Laser Ultrasound) Team tackles the challenges associated with remote non-destructive evaluation, where the transmission and the reception of ultrasonic signals are achieved using lasers. The non-contact, couplant-free nauture of laser ultrasound enables inspection in hazardous environment (high temperature, radioactive), and the flexibility of laser scanning allows the inspection of complex geometries. This is a collaborative project with University of Strathclyde.-->
 
-The laser room is set up for the laser ultrasound non-destructive evaluation technique, which is contactless and couplant-free compared to conventional PZT ultrasonic transducers. There are a generation laser (Class 4) and a detection laser (Class 3R) in the room.
+The laser room is set up for the laser ultrasound non-destructive evaluation technique, which is contactless and couplant-free compared to conventional PZT ultrasonic transducers. There are a generation laser (Class 4) and a detection laser (Class 3R) in the room. The lasers are mounted on motorised stages to achieve optical scanning.
 
 ### Associated Researchers
 - Lily Tu, PhD student (xt16846@bristol.ac.uk)
@@ -13,10 +13,15 @@ The laser room is set up for the laser ultrasound non-destructive evaluation tec
 - Jie Zhang, Research Fellow (j.zhang@bristol.ac.uk)
 - Paul Wilcox, Professor (p.wilcox@bristol.ac.uk)
 
+### Laser safety
+
+Both the Class 4 and Class 3R lasers can cause safety issues such as eye damage. The laser safety training can be found here.
+The risk assessment can be found here.
+Safety goggles, etc.
+
 ### Devices and manuals
 
 #### Generation laser
-
 
 
 #### Detection laser
