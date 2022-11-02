@@ -30,6 +30,9 @@ Example stage scripts can be found here.
 ### Publications
 1. [Stratoudaki T, Clark M, Wilcox PD. Laser induced ultrasonic phased array using full matrix capture data acquisition and total focusing method. Optics express. 2016 Sep 19;24(19):21921-38.](https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-19-21921&id=349992)
 
+2. [Stratoudaki T, Clark M, Wilcox PD. Adapting the full matrix capture and the total focusing method to laser ultrasonics for remote non destructive testing. In2017 IEEE International Ultrasonics Symposium (IUS) 2017 Sep 6 (pp. 1-4). IEEE.](https://strathprints.strath.ac.uk/62440/1/Stratoudaki_etal_IUS_2017_total_focusing_method_to_laser_ultrasonics_for_remote_non_destructive_testing.pdf)
 
 ### Collaborators
+Adaptive Laser Induced Phase Array (ALIPA) project
 University of Strathclyde
+University of Nottingham
