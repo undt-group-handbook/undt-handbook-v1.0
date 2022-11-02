@@ -16,19 +16,16 @@ The laser room is set up for the laser ultrasound non-destructive evaluation tec
 ### Laser safety
 
 Both the Class 4 and Class 3R lasers can cause safety issues such as eye damage. The laser safety training can be found here.
-The risk assessment can be found here.
+The risk assessment can be found [here](https://uob.sharepoint.com/:w:/r/teams/grp-UNDTGroup/Shared%20Documents/Risk%20Assessments/09RA%20laser%20ultrasound.docx?d=w565f2730f1bc46bba4e0d65b18df26db&csf=1&web=1&e=3OcIsV). Please sign in the hard copy of the rish assessment in the lab.
 Safety goggles, etc.
 
 ### Devices and manuals
 
-#### Generation laser
+#### Generation laser and detection laser
+The step-by-step instructions for turning on the lasers and controlling the laser power via PC can be found [here](https://uob.sharepoint.com/:b:/r/teams/grp-UNDTGroup/Shared%20Documents/Instruments/UserGuide_LaserUltrasonics_v2.pdf?csf=1&web=1&e=Kgmmvs).
 
-
-#### Detection laser
-
-
-#### Matlab control scrit for the stage
-
+#### Matlab control script for the stages
+Example stage scripts can be found here.
 
 ### Publications
 1. [Stratoudaki T, Clark M, Wilcox PD. Laser induced ultrasonic phased array using full matrix capture data acquisition and total focusing method. Optics express. 2016 Sep 19;24(19):21921-38.](https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-19-21921&id=349992)
