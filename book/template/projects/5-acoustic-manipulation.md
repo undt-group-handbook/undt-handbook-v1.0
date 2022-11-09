@@ -20,17 +20,17 @@ We also manipulate particles in water. We were part of a cross-university team w
 
 &nbsp;&nbsp;<img align="left" src = "https://user-images.githubusercontent.com/97747467/200842756-227e4e53-bbc9-4448-99f3-1aba2338e409.png" width ="150">   
 
-&nbsp;&nbsp;&nbsp;2. **Riaz Pervez** { av20440@bristol.ac.uk }
+&nbsp;&nbsp;2. **Riaz Pervez** { av20440@bristol.ac.uk }
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src = "https://user-images.githubusercontent.com/97747467/200842686-7895092d-078a-420e-bf5c-beb0e5208914.jpeg" width ="150">
 
-&nbsp;&nbsp;&nbsp;3. **Luke Cox** { luke.cox@bristol.ac.uk }
+&nbsp;&nbsp;3. **Luke Cox** { luke.cox@bristol.ac.uk }
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src = "https://user-images.githubusercontent.com/97747467/200842616-23d7b917-c2e5-4840-832e-9d11333a47ea.jpg" width ="150">
 
 &nbsp;&nbsp;&nbsp;4. **Bruce Drinkwater** { B.Drinkwater@bristol.ac.uk }
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://user-images.githubusercontent.com/97747467/200841656-62af1526-aec1-4fdc-8b33-e1c949937ac3.jpg" width ="150">
+&nbsp;<img src = "https://user-images.githubusercontent.com/97747467/200841656-62af1526-aec1-4fdc-8b33-e1c949937ac3.jpg" width ="150">
 
 
 
