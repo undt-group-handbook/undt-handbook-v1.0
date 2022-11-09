@@ -16,13 +16,22 @@ We also manipulate particles in water. We were part of a cross-university team w
 
 ## Associated Researchers
 
-- Mario Ortega Sandovalg {mario.ortegasandoval@bristol.ac.uk} 
+Mario Ortega Sandovalg  { mario.ortegasandoval@bristol.ac.uk } 
 
-- Riaz Pervez {av20440@bristol.ac.uk}
+<img src = "https://user-images.githubusercontent.com/97747467/200842756-227e4e53-bbc9-4448-99f3-1aba2338e409.png" width ="150">   
 
-- Luke Cox {luke.cox@bristol.ac.uk}
+Riaz Pervez { av20440@bristol.ac.uk }
 
-- Bruce Drinkwater {B.Drinkwater@bristol.ac.uk}
+<img src = "https://user-images.githubusercontent.com/97747467/200842686-7895092d-078a-420e-bf5c-beb0e5208914.jpeg" width ="150">
+
+Luke Cox { luke.cox@bristol.ac.uk }
+
+<img src = "https://user-images.githubusercontent.com/97747467/200842616-23d7b917-c2e5-4840-832e-9d11333a47ea.jpg" width ="150">
+
+Bruce Drinkwater { B.Drinkwater@bristol.ac.uk }
+
+<img src = "https://user-images.githubusercontent.com/97747467/200841656-62af1526-aec1-4fdc-8b33-e1c949937ac3.jpg" width ="150">
+
 
 ## Research Topics
 ### Current
@@ -33,13 +42,25 @@ We also manipulate particles in water. We were part of a cross-university team w
  - Topic 3
 
 ## Publications
- - [1] Cox, L., Croxford, A. & Drinkwater, B.W. Dynamic patterning of microparticles with acoustic impulse control. Sci Rep 12, 14549 (2022). 
- - [2] Drinkwater, B.W. The Physical Principles of Arrays for Mid-Air Haptic Applications. In: Georgiou, O., Frier, W., Freeman, E., Pacchierotti, C., Hoshi, T. (eds) Ultrasound Mid-Air Haptics for Touchless Interfaces. Human–Computer Interaction Series. Springer, Cham (2022).
- - [3] T. Fushimi, B. W. Drinkwater, T. L. Hill, What is the ultimate capability of acoustophoretic volumetric displays? Appl. Phys. Lett. 116, 244101 (2020).
- - [4] Fushimi, T., Marzo, A., Drinkwater, B. W. & Hill, T. L. Acoustophoretic volumetric displays using a fast-moving levitated particle. Appl. Phys. Lett. 115, 064101 (2019).
- - [5] Fushimi, T., Hill, T. L., Marzo, A. & Drinkwater, B. W. Nonlinear trapping stiffness of mid-air single-axis acoustic levitators. Appl. Phys. Lett. 113, 034102 (2018).
+ - Cox, L., Croxford, A. & Drinkwater, B.W. Dynamic patterning of microparticles with acoustic impulse control. Sci Rep 12, 14549 (2022). 
+ - Drinkwater, B.W. The Physical Principles of Arrays for Mid-Air Haptic Applications. In: Georgiou, O., Frier, W., Freeman, E., Pacchierotti, C., Hoshi, T. (eds) Ultrasound Mid-Air Haptics for Touchless Interfaces. Human–Computer Interaction Series. Springer, Cham (2022).
+ - T. Fushimi, B. W. Drinkwater, T. L. Hill, What is the ultimate capability of acoustophoretic volumetric displays? Appl. Phys. Lett. 116, 244101 (2020).
+ - Fushimi, T., Marzo, A., Drinkwater, B. W. & Hill, T. L. Acoustophoretic volumetric displays using a fast-moving levitated particle. Appl. Phys. Lett. 115, 064101 (2019).
+ - Fushimi, T., Hill, T. L., Marzo, A. & Drinkwater, B. W. Nonlinear trapping stiffness of mid-air single-axis acoustic levitators. Appl. Phys. Lett. 113, 034102 (2018).
  
 ## Collaborators
 
 
 ## Facilities 
+
+- Ultrasonic Levitation in mid-air
+
+https://user-images.githubusercontent.com/97747467/200852336-9bac02cb-e5ac-4c65-be64-08f65347ff57.mp4
+
+
+- Ultrasonic Levitation in liquid
+
+![lab](https://user-images.githubusercontent.com/97747467/200853105-03439dc3-e5ed-4e4f-b200-38a135de1adb.png)
+
+
+
