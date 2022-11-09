@@ -16,7 +16,7 @@ We also manipulate particles in water. We were part of a cross-university team w
 
 ## Associated Researchers
 
-- Mario Ortega Sandovalg {mario.ortegasandoval@bristol.ac.uk}
+- Mario Ortega Sandovalg {mario.ortegasandoval@bristol.ac.uk} 
 
 - Riaz Pervez {av20440@bristol.ac.uk}
 
@@ -27,12 +27,19 @@ We also manipulate particles in water. We were part of a cross-university team w
 ## Research Topics
 ### Current
  - Topic 1
- - Topic 2
+ - Ultrasonic Tweezers for Micro-assembly
 
 ### Prospective / Future
  - Topic 3
 
-## Papers
- - 
-
+## Publications
+ - [1] Cox, L., Croxford, A. & Drinkwater, B.W. Dynamic patterning of microparticles with acoustic impulse control. Sci Rep 12, 14549 (2022). 
+ - [2] Drinkwater, B.W. The Physical Principles of Arrays for Mid-Air Haptic Applications. In: Georgiou, O., Frier, W., Freeman, E., Pacchierotti, C., Hoshi, T. (eds) Ultrasound Mid-Air Haptics for Touchless Interfaces. Human–Computer Interaction Series. Springer, Cham (2022).
+ - [3] T. Fushimi, B. W. Drinkwater, T. L. Hill, What is the ultimate capability of acoustophoretic volumetric displays? Appl. Phys. Lett. 116, 244101 (2020).
+ - [4] Fushimi, T., Marzo, A., Drinkwater, B. W. & Hill, T. L. Acoustophoretic volumetric displays using a fast-moving levitated particle. Appl. Phys. Lett. 115, 064101 (2019).
+ - [5] Fushimi, T., Hill, T. L., Marzo, A. & Drinkwater, B. W. Nonlinear trapping stiffness of mid-air single-axis acoustic levitators. Appl. Phys. Lett. 113, 034102 (2018).
+ 
 ## Collaborators
+
+
+## Facilities 
