@@ -18,7 +18,7 @@ We also manipulate particles in water. We were part of a cross-university team w
 <img align="left" src = "https://user-images.githubusercontent.com/97747467/200842616-23d7b917-c2e5-4840-832e-9d11333a47ea.jpg" width ="150">
 
 &nbsp;4. **Bruce Drinkwater** { B.Drinkwater@bristol.ac.uk }
-<img src = "https://user-images.githubusercontent.com/97747467/200841656-62af1526-aec1-4fdc-8b33-e1c949937ac3.jpg" width ="150">
+<img align="left" src = "https://user-images.githubusercontent.com/97747467/200841656-62af1526-aec1-4fdc-8b33-e1c949937ac3.jpg" width ="150">
 
 ## Research Topics
 ### Current
