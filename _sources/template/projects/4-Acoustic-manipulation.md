@@ -11,18 +11,17 @@ We also manipulate particles in water. We were part of a cross-university team w
 1. **Mario Ortega Sandovalg**  { mario.ortegasandoval@bristol.ac.uk } 
 <img align="left" src = "https://user-images.githubusercontent.com/97747467/200842756-227e4e53-bbc9-4448-99f3-1aba2338e409.png" width ="150">   
 
-&nbsp;2. **Riaz Pervez** { av20440@bristol.ac.uk }
+2. **Riaz Pervez** { av20440@bristol.ac.uk }
 <img align="left" src = "https://user-images.githubusercontent.com/97747467/200842686-7895092d-078a-420e-bf5c-beb0e5208914.jpeg" width ="150">
 
- &nbsp;3. **Luke Cox** { luke.cox@bristol.ac.uk }
+3. **Luke Cox** { luke.cox@bristol.ac.uk }
 <img align="left" src = "https://user-images.githubusercontent.com/97747467/200842616-23d7b917-c2e5-4840-832e-9d11333a47ea.jpg" width ="150">
 
-&nbsp;4. **Bruce Drinkwater** { B.Drinkwater@bristol.ac.uk }
+4. **Bruce Drinkwater** { B.Drinkwater@bristol.ac.uk }
 <img src = "https://user-images.githubusercontent.com/97747467/200841656-62af1526-aec1-4fdc-8b33-e1c949937ac3.jpg" width ="150">
 
 ## Research Topics
 ### Current
- - Topic 1
  - <ins>**Ultrasonic Tweezers for Micro-assembly**</ins>
 
 &nbsp;&nbsp;&nbsp;&nbsp;*In principle, ultrasonic tweezers can manipulate any material and have been shown to be delicate enough to manipulate cells without harming them. Hence, this technology has the potential to both improve and complement existing manipulation technologies, but it also enables completely new manipulation and manufacturing applications. In this project, ultrasonic tweezers will be developed to manipulate solid components on the scale of micrometres to millimetres.  The application focus will be on assembling parts as is required for micro-scale manufacturing operations, for example, the electronic components in a system such as a mobile phone. Successful manipulation is achieved by creating a convergent force field to grip the object using an array of ultrasonic sources or a phase plate.*
