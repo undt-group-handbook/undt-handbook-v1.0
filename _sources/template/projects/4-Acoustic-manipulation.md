@@ -16,7 +16,7 @@ We also manipulate particles in water. We were part of a cross-university team w
 <img align="left" src = "https://user-images.githubusercontent.com/97747467/200842756-227e4e53-bbc9-4448-99f3-1aba2338e409.png" width ="150">   
 
 
-2. **Riaz Pervez** { av20440@bristol.ac.uk }
+&nbsp;&nbsp;&nbsp;&nbsp;2. **Riaz Pervez** { av20440@bristol.ac.uk }
 &nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src = "https://user-images.githubusercontent.com/97747467/200842686-7895092d-078a-420e-bf5c-beb0e5208914.jpeg" width ="150">
 
 &nbsp;&nbsp;3. **Luke Cox** { luke.cox@bristol.ac.uk }
