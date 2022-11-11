@@ -13,7 +13,7 @@ We also manipulate particles in water. We were part of a cross-university team w
 
 ## Associated Researchers
 1. **Mario Ortega Sandoval**  { mario.ortegasandoval@bristol.ac.uk } 
-<img align="left" src = "https://user-images.githubusercontent.com/97747467/200842756-227e4e53-bbc9-4448-99f3-1aba2338e409.png" width ="150">  <br/><br/>
+<img align="left" src = "https://user-images.githubusercontent.com/97747467/200842756-227e4e53-bbc9-4448-99f3-1aba2338e409.png" width ="150">  <br/><br/><br/>
 
 
 2. **Riaz Pervez** { av20440@bristol.ac.uk }
