@@ -47,7 +47,7 @@
 *<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;In principle, ultrasonic tweezers can manipulate any material and have been shown to be delicate enough to manipulate cells without harming them. Hence, this technology has the potential to both improve and complement existing manipulation technologies, but it also enables completely new manipulation and manufacturing applications. In this project, ultrasonic tweezers will be developed to manipulate solid components on the scale of micrometres to millimetres.  The application focus will be on assembling parts as is required for micro-scale manufacturing operations, for example, the electronic components in a system such as a mobile phone. Successful manipulation is achieved by creating a convergent force field to grip the object using an array of ultrasonic sources or a phase plate.</p>*
 
 ### Prospective / Future
- - Topic 3
+ *<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Though acoustic tweezers have come a long way in recent years there is always more to do! We aspire to continue to develop new techniques to increase the capabilities of such devices. We are also interested in developing new applications. In particular, acoustic tweezers have many promising applications in the life sciences where we are supporting development via exciting collaborations. (Under Dr. Luke Cox and Professor Bruce) </p>*
 
 ## Publications
  - [Cox, L., Croxford, A. & Drinkwater, B.W. Dynamic patterning of microparticles with acoustic impulse control. Sci Rep 12, 14549 (2022).](https://www.nature.com/articles/s41598-022-18554-5)
@@ -57,6 +57,15 @@
  - [Fushimi, T., Hill, T. L., Marzo, A. & Drinkwater, B. W. Nonlinear trapping stiffness of mid-air single-axis acoustic levitators. Appl. Phys. Lett. 113, 034102 (2018).](https://aip.scitation.org/doi/10.1063/1.5034116)
  
 ## Collaborators
+- <ins>**The Armstrong Group**</ins>
+ *<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;We are currently collaborating with The Armstrong Group at the University of Bristol to support their development of new ultrasound-based technologies for driving the assembly of biomaterials and engineered tissues.
+https://thearmstronggroup.co.uk/ </p>*
+
+
+- <ins>**Max Plank Institute for Intelligent Systems: Micro, Nano and Molecular Systems Group**</ins>
+*<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;We worked with this group to join our expertise in phased arrays with their expertise in acoustic holograms to demonstrate the capabilities of combining these two powerful techniques. 
+The published work on this can be found here: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.064055 and
+The group’s information can be found here: https://pf.is.mpg.de/  </p>*
 
 
 ## Facilities 
