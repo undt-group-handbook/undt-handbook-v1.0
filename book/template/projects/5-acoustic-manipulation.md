@@ -1,6 +1,4 @@
-# Acoustic Levitation and Manipulation
-
-
+<img align="middle" src = "https://user-images.githubusercontent.com/97747467/205339709-5b84953f-b99d-456c-96e3-bf885fc9c0e8.JPG" width ="1000" height = "350"> 
 
 ## Brief Description
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;The acoustic radiation force (or ARF) has been used to levitate objects in the air since 1980/90’s when Eugene Trinh did his pioneering work at the Jet Propulsion Lab. By the way, Trinh lived the dream and became an astronaut flying on the space shuttle in 1992. At the time, they and others were interested in creating micro-gravity environments (i.e. mini versions of space on earth). However, more earthly applications in container-less processing emerged.
@@ -73,11 +71,4 @@ The group’s information can be found here: https://pf.is.mpg.de/  </p>*
 - Ultrasonic Levitation in mid-air
 
 https://user-images.githubusercontent.com/97747467/200852336-9bac02cb-e5ac-4c65-be64-08f65347ff57.mp4
-
-
-- Ultrasonic Levitation in liquid
-
-<img src= "https://user-images.githubusercontent.com/97747467/200853105-03439dc3-e5ed-4e4f-b200-38a135de1adb.png" width = "200">
-
-
 
