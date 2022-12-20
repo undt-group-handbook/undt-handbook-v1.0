@@ -14,19 +14,28 @@
 
 ## Associated Researchers
 
-1. **Mario Ortega Sandoval**  { mario.ortegasandoval@bristol.ac.uk } 
+**1. Mario Ortega Sandoval**  
+   { mario.ortegasandoval@bristol.ac.uk } 
 
 &nbsp;&nbsp;<img align="left" src = "https://user-images.githubusercontent.com/97747467/200842756-227e4e53-bbc9-4448-99f3-1aba2338e409.png" width ="150">   
 
-&nbsp;&nbsp;2. **Riaz Pervez** { av20440@bristol.ac.uk }
+**2. Riaz Pervez** \
+   { av20440@bristol.ac.uk }
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src = "https://user-images.githubusercontent.com/97747467/200842686-7895092d-078a-420e-bf5c-beb0e5208914.jpeg" width ="150">
+&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src = "https://user-images.githubusercontent.com/97747467/200842686-7895092d-078a-420e-bf5c-beb0e5208914.jpeg" width ="180">
 
-&nbsp;&nbsp;3. **Luke Cox** { luke.cox@bristol.ac.uk }
+**3. Chris Stone** \
+   { c.stone@bristol.ac.uk }
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src = "https://github.com/Mrpervez/undt-handbook-v1.0_riaz/blob/main/book/template/projects/Chris.jpg" width ="180">
+
+**4. Dr. Luke Cox** \
+   { luke.cox@bristol.ac.uk }
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src = "https://user-images.githubusercontent.com/97747467/200842616-23d7b917-c2e5-4840-832e-9d11333a47ea.jpg" width ="150">
 
-&nbsp;&nbsp;&nbsp;4. **Bruce Drinkwater** { B.Drinkwater@bristol.ac.uk }
+**5. Professor Bruce Drinkwater** \
+   { B.Drinkwater@bristol.ac.uk }
 
 &nbsp;<img src = "https://user-images.githubusercontent.com/97747467/200841656-62af1526-aec1-4fdc-8b33-e1c949937ac3.jpg" width ="150">
 
@@ -43,6 +52,10 @@
  - <ins>**Ultrasonic Tweezers for Micro-assembly**</ins>
 
 *<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;In principle, ultrasonic tweezers can manipulate any material and have been shown to be delicate enough to manipulate cells without harming them. Hence, this technology has the potential to both improve and complement existing manipulation technologies, but it also enables completely new manipulation and manufacturing applications. In this project, ultrasonic tweezers will be developed to manipulate solid components on the scale of micrometres to millimetres.  The application focus will be on assembling parts as is required for micro-scale manufacturing operations, for example, the electronic components in a system such as a mobile phone. Successful manipulation is achieved by creating a convergent force field to grip the object using an array of ultrasonic sources or a phase plate.</p>*
+
+- <ins>**Time independent fluid flows can be induced by the attenuation of acoustic energy**</ins>
+
+*<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;It is a second order phenomenon, and for bulk-driven flows (where the attenuation occurs in the bulk of the fluid) only becomes significant at very high acoustic powers and/or frequencies. The behaviour of high-powered ultrasonic transducers (25-40 kHz) and their resulting streaming fields have been characterised, and the potential applications for this form of acoustic streaming are being explored, such as the manipulation of turbulent boundary layers for flow control.</p>*
 
 ### Prospective / Future
  *<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Though acoustic tweezers have come a long way in recent years there is always more to do! We aspire to continue to develop new techniques to increase the capabilities of such devices. We are also interested in developing new applications. In particular, acoustic tweezers have many promising applications in the life sciences where we are supporting development via exciting collaborations. (Under Dr. Luke Cox and Professor Bruce) </p>*
