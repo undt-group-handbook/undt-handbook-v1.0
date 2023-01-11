@@ -8,7 +8,7 @@ The UNDb uses Microsoft Access to store and access the sample database. Usually 
 
 ### Map the UNDT RDSF folder as a network location
 
-These instructions can also be found on the [RDSF website](https://www.bristol.ac.uk/acrc/research-data-storage-facility/how-to-access-the-rdsf/). You will need to make sure that you have been added to the project by the data steward: for the UNDT project, this is [Paul Wilcox](mailto:p.wilcox@bristol.ac.uk), and make sure that you have the [VPN](https://www.bris.ac.uk/it-services/advice/homeusers/uobonly/uobvpn/howto/) installed if you are not on campus.
+These instructions can also be found on the [RDSF website](https://www.bristol.ac.uk/acrc/research-data-storage-facility/how-to-access-the-rdsf/). You will need to make sure that you have been added to the project by the data steward: for the UNDT project, this is [Paul Wilcox](mailto:p.wilcox@bristol.ac.uk), and make sure that you have the [VPN](https://www.bris.ac.uk/it-services/advice/homeusers/uobonly/uobvpn/howto/) installed and running if you are not on campus.
 
 From Windows 10, navigate to `This PC`, and select `Map network drive` on the `Computer` tab.
 
