@@ -22,7 +22,9 @@ Make sure that you have the Sharepoint documents folder synchronised to your per
 
 <img align="center" src="https://github.com/ndtatbristol/undt-handbook-v1.0_mgchandler/blob/main/book/template/resources/Sync.png">
 
-Navigate to the synchronised folder. Typically, this will be located at `C:\Users\<your username>\University of Bristol\grp-UNDT Group - Documents`, and open the folder `UNDb`. Open the file `UNDb_Client.accdb`, or make a shortcut to this location to access it more conveniently. Note that you must always access the database from this file on the Sharepoint rather than making a copy of it to your own files. This is because many of the lists used to suggest field entries are saved within the client rather than the database: any change or addition you make will only save to the file you use.
+Navigate to the synchronised folder. Typically, this will be located at `C:\Users\<your username>\University of Bristol\grp-UNDT Group - Documents`, and open the folder `UNDb`. Open the file `UNDb_Client.accdb`, or make a shortcut to this location to access it more conveniently.
+
+Note that you must always access the database from this file on the Sharepoint rather than making a copy of it to your own files. This is because many of the lists used to suggest field entries are saved within the client rather than the database: any change or addition you make will only save to the file you use.
 
 ### Make sure you have a UNDb login
 
