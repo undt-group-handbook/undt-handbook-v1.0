@@ -29,3 +29,5 @@ Note that you must always access the database from this file on the Sharepoint r
 ### Make sure you have a UNDb login
 
 The login needed to access the UNDb will not be the same as your UoB account. The person currently responsible for maintaining the database is [Matt Chandler](mailto:m.chandler@bristol.ac.uk). If you have not yet received a login, please email Matt to get one.
+
+When you launch the client for the first time, you will have to enable content before you will be able to access the database. Close the login screen, and within the blank Microsoft Access program, click `Enable content` on the banner. Close Access and reopen the client file: you should now be able to log in.
