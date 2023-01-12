@@ -2,6 +2,8 @@
 
 The UNDT Materials Database, or UNDb, is a tool developed for the UNDT Group in collaboration with the [Solid Mechanics Research Group (SMRG)](https://www.bristol.ac.uk/engineering/research/solids/). It is hosted by the [Research Data Storage Facility (RDSF)](https://www.bristol.ac.uk/acrc/research-data-storage-facility/) and is accessible from a Microsoft Access client saved on the [Sharepoint](https://uob.sharepoint.com/:f:/r/teams/grp-UNDTGroup/Shared%20Documents/UNDb). It contains data relating to every sample we have stored in the lab, including material, defect types, some experimental data, etc.
 
+The person currently responsible for maintaining the database is [Matt Chandler](mailto:m.chandler@bristol.ac.uk).
+
 ## How to get started
 
 The UNDb uses Microsoft Access to store and access the sample database. Usually Access comes pre-installed on University of Bristol managed PCs, however if you need to install it on your device, navigate to the [Microsoft Office Account page](https://portal.office.com/account) (logging in using your UoB details) and install it from there.
@@ -28,6 +30,6 @@ Note that you must always access the database from this file on the Sharepoint r
 
 ### Make sure you have a UNDb login
 
-The login needed to access the UNDb will not be the same as your UoB account. The person currently responsible for maintaining the database is [Matt Chandler](mailto:m.chandler@bristol.ac.uk). If you have not yet received a login, please email Matt to get one.
+The login needed to access the UNDb will not be the same as your UoB account. If you have not yet received a login, please email [Matt](mailto:m.chandler@bristol.ac.uk) to get one.
 
 When you launch the client for the first time, you will have to enable content before you will be able to access the database. Close the login screen, and within the blank Microsoft Access program, click `Enable content` on the banner. Close Access and reopen the client file: you should now be able to log in.
