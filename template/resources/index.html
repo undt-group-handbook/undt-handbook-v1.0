@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Lab database &#8212; UNDT Handbook</title>
+    <title>UNDb - The UNDT Sample Database &#8212; UNDT Handbook</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -177,7 +177,7 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
  <li class="toctree-l1 current active has-children">
   <a class="current reference internal" href="#">
-   Lab database
+   UNDb - The UNDT Sample Database
   </a>
   <input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
   <label for="toctree-checkbox-3">
@@ -306,23 +306,94 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#how-to-get-started">
+   How to get started
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#map-the-undt-rdsf-folder-as-a-network-location">
+     Map the UNDT RDSF folder as a network location
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#synchronise-the-undt-sharepoint-to-your-own-device-using-onedrive">
+     Synchronise the UNDT Sharepoint to your own device using OneDrive
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#make-sure-you-have-a-undb-login">
+     Make sure you have a UNDb login
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </nav>
 </div>
     </div>
     <div class="article row">
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Lab database</h1>
+                <h1>UNDb - The UNDT Sample Database</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#how-to-get-started">
+   How to get started
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#map-the-undt-rdsf-folder-as-a-network-location">
+     Map the UNDT RDSF folder as a network location
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#synchronise-the-undt-sharepoint-to-your-own-device-using-onedrive">
+     Synchronise the UNDT Sharepoint to your own device using OneDrive
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#make-sure-you-have-a-undb-login">
+     Make sure you have a UNDb login
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -330,8 +401,33 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="lab-database">
-<h1>Lab database<a class="headerlink" href="#lab-database" title="Permalink to this headline">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="undb-the-undt-sample-database">
+<h1>UNDb - The UNDT Sample Database<a class="headerlink" href="#undb-the-undt-sample-database" title="Permalink to this headline">#</a></h1>
+<p>The UNDT Sample Database, or UNDb, is a tool developed for the UNDT Group in collaboration with the <a class="reference external" href="https://www.bristol.ac.uk/engineering/research/solids/">Solid Mechanics Research Group (SMRG)</a>. It is hosted by the <a class="reference external" href="https://www.bristol.ac.uk/acrc/research-data-storage-facility/">Research Data Storage Facility (RDSF)</a> and is accessible from a Microsoft Access client saved on the <a class="reference external" href="https://uob.sharepoint.com/:f:/r/teams/grp-UNDTGroup/Shared%20Documents/UNDb">Sharepoint</a>. It contains data relating to every sample we have stored in the lab, including material, defect types, some experimental data, etc.</p>
+<p>The person currently responsible for maintaining the database is <a class="reference external" href="mailto:m&#46;chandler&#37;&#52;&#48;bristol&#46;ac&#46;uk">Matt Chandler</a>.</p>
+<section id="how-to-get-started">
+<h2>How to get started<a class="headerlink" href="#how-to-get-started" title="Permalink to this headline">#</a></h2>
+<p>The UNDb uses Microsoft Access to store and access the sample database. Usually Access comes pre-installed on University of Bristol managed PCs, however if you need to install it on your device, navigate to the <a class="reference external" href="https://portal.office.com/account">Microsoft Office Account page</a> (logging in using your UoB details) and install it from there.</p>
+<section id="map-the-undt-rdsf-folder-as-a-network-location">
+<h3>Map the UNDT RDSF folder as a network location<a class="headerlink" href="#map-the-undt-rdsf-folder-as-a-network-location" title="Permalink to this headline">#</a></h3>
+<p>These instructions can also be found on the <a class="reference external" href="https://www.bristol.ac.uk/acrc/research-data-storage-facility/how-to-access-the-rdsf/">RDSF website</a>. You will need to make sure that you have been added to the project by the data steward: for the UNDT project, this is <a class="reference external" href="mailto:p&#46;wilcox&#37;&#52;&#48;bristol&#46;ac&#46;uk">Paul Wilcox</a>, and make sure that you have the <a class="reference external" href="https://www.bris.ac.uk/it-services/advice/homeusers/uobonly/uobvpn/howto/">VPN</a> installed and running if you are not on campus.</p>
+<p>From Windows 10, navigate to <code class="docutils literal notranslate"><span class="pre">This</span> <span class="pre">PC</span></code>, and select <code class="docutils literal notranslate"><span class="pre">Map</span> <span class="pre">network</span> <span class="pre">drive</span></code> on the <code class="docutils literal notranslate"><span class="pre">Computer</span></code> tab.</p>
+<img align="center" src="https://github.com/ndtatbristol/undt-handbook-v1.0_mgchandler/blob/main/book/template/resources/network drive.png">
+<p>Map the folder <code class="docutils literal notranslate"><span class="pre">\\rdsfcifs.acrc.bris.ac.uk\Ultrasonic_array_data</span></code> to an unused drive, and if prompted for a username use the format <code class="docutils literal notranslate"><span class="pre">uob\&lt;your-uob-username&gt;</span></code>.</p>
+</section>
+<section id="synchronise-the-undt-sharepoint-to-your-own-device-using-onedrive">
+<h3>Synchronise the UNDT Sharepoint to your own device using OneDrive<a class="headerlink" href="#synchronise-the-undt-sharepoint-to-your-own-device-using-onedrive" title="Permalink to this headline">#</a></h3>
+<p>Make sure that you have the Sharepoint documents folder synchronised to your personal OneDrive account. To do this, navigate to the group’s <a class="reference external" href="https://uob.sharepoint.com/teams/grp-UNDTGroup/Shared%20Documents/Forms/AllItems.aspx">Documents</a> folder and click <code class="docutils literal notranslate"><span class="pre">Sync</span></code></p>
+<img align="center" src="https://github.com/ndtatbristol/undt-handbook-v1.0_mgchandler/blob/main/book/template/resources/Sync.png">
+<p>Navigate to the synchronised folder. Typically, this will be located at <code class="docutils literal notranslate"><span class="pre">C:\Users\&lt;your</span> <span class="pre">username&gt;\University</span> <span class="pre">of</span> <span class="pre">Bristol\grp-UNDT</span> <span class="pre">Group</span> <span class="pre">-</span> <span class="pre">Documents</span></code>, and open the folder <code class="docutils literal notranslate"><span class="pre">UNDb</span></code>. Open the file <code class="docutils literal notranslate"><span class="pre">UNDb_Client.accdb</span></code>, or make a shortcut to this location to access it more conveniently.</p>
+<p>Note that you must always access the database from this file on the Sharepoint rather than making a copy of it to your own files. This is because many of the lists used to suggest field entries are saved within the client rather than the database: any change or addition you make will only save to the file you use.</p>
+</section>
+<section id="make-sure-you-have-a-undb-login">
+<h3>Make sure you have a UNDb login<a class="headerlink" href="#make-sure-you-have-a-undb-login" title="Permalink to this headline">#</a></h3>
+<p>The login needed to access the UNDb will not be the same as your UoB account. If you have not yet received a login, please email <a class="reference external" href="mailto:m&#46;chandler&#37;&#52;&#48;bristol&#46;ac&#46;uk">Matt</a> to get one.</p>
+<p>When you launch the client for the first time, you will have to enable content before you will be able to access the database. Close the login screen, and within the blank Microsoft Access program, click <code class="docutils literal notranslate"><span class="pre">Enable</span> <span class="pre">content</span></code> on the banner. Close Access and reopen the client file: you should now be able to log in.</p>
+</section>
+</section>
 <div class="toctree-wrapper compound">
 </div>
 </section>
