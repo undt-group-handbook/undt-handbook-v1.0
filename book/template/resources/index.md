@@ -14,7 +14,7 @@ These instructions can also be found on the [RDSF website](https://www.bristol.a
 
 From Windows 10, navigate to `This PC`, and select `Map network drive` on the `Computer` tab.
 
-<img align="center" src="https://github.com/ndtatbristol/undt-handbook-v1.0_mgchandler/blob/main/book/template/resources/network drive.png">
+<img align="center" src="https://github.com/undt-group-handbook/undt-handbook-v1.0/blob/main/book/template/resources/network%20drive.png">
 
 Map the folder `\\rdsfcifs.acrc.bris.ac.uk\Ultrasonic_array_data` to an unused drive, and if prompted for a username use the format `uob\<your-uob-username>`.
 
@@ -22,7 +22,7 @@ Map the folder `\\rdsfcifs.acrc.bris.ac.uk\Ultrasonic_array_data` to an unused d
 
 Make sure that you have the Sharepoint documents folder synchronised to your personal OneDrive account. To do this, navigate to the group's [Documents](https://uob.sharepoint.com/teams/grp-UNDTGroup/Shared%20Documents/Forms/AllItems.aspx) folder and click `Sync`
 
-<img align="center" src="https://github.com/ndtatbristol/undt-handbook-v1.0_mgchandler/blob/main/book/template/resources/Sync.png">
+<img align="center" src="https://github.com/undt-group-handbook/undt-handbook-v1.0/blob/main/book/template/resources/Sync.png">
 
 Navigate to the synchronised folder. Typically, this will be located at `C:\Users\<your username>\University of Bristol\grp-UNDT Group - Documents`, and open the folder `UNDb`. Open the file `UNDb_Client.accdb`, or make a shortcut to this location to access it more conveniently.
 
