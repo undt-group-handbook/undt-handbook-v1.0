@@ -2,7 +2,7 @@
 
 When you log in, you will be greeted by the `Samples` table. Along the top, you are able to navigate to the `Materials` and `Equipment` tables, as well as a list of all of the `Suppliers` and `Users`.
 
-<img align="center" src="https://github.com/undt-group-handbook/undt-handbook-v1.0/blob/main/book/template/resources/undb/samples.png">
+<img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/samples.png">
 
 Each table contains records of everything we use in the UNDT lab - to make this a valuable resource for the group, it is important to keep it up to date.
 
@@ -12,17 +12,17 @@ The `Samples` table lists all of the samples we use for inspection, `Materials` 
 
 Within each table, you are able to view the full list of all records we have of samples in the lab. When looking for a specific item, you can search by keyword using the search bar.
 
-<img align="center" src="https://github.com/undt-group-handbook/undt-handbook-v1.0/blob/main/book/template/resources/undb/search.png">
+<img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/search.png">
 
 You are also able to filter the table by field value - for example, to find samples which are used for eddy current testing, set the drop down box under `Test` in the `Samples` table to `Eddy Current`.
 
-<img align="center" src="https://github.com/undt-group-handbook/undt-handbook-v1.0/blob/main/book/template/resources/undb/filter.png">
+<img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/filter.png">
 
 ## Viewing a record
 
 Any field which is coloured in blue can be clicked to open the record of that item - for example, clicking on the material `Al2024` in a sample record will open the `Al2024` material record.
 
-<img align="center" src="https://github.com/undt-group-handbook/undt-handbook-v1.0/blob/main/book/template/resources/undb/material_record.png">
+<img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/material_record.png">
 
 Within this record, all of the relevant details can be found. If you are the owner of this record (i.e. you are the researcher associated with this sample, material, etc.) then you are able to make changes to this record and save it - this will be covered in more detail in the next section on adding a new sample.
 
