@@ -42,8 +42,9 @@ parts:
 #      - file: template/research-environment/roadmap
     - file: template/resources/index
       sections:
-      - file: template/resources/database-search-tutorial
-#    - file: template/tutorials
-#      sections:
-#      - file: template/tutorials/interactive-plot
-#    - file: template/glossary
+      - file: template/resources/undb/index
+        sections:
+        - file: template/resources/undb/database-search
+        - file: template/resources/undb/database-new-entry
+#      - file: template/resources/time-management
+#      - file: template/resources/documentation
