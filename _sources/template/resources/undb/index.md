@@ -28,6 +28,12 @@ Navigate to the synchronised folder. Typically, this will be located at `C:\User
 
 Note that you must always access the database from this file on the Sharepoint rather than making a copy of it to your own files. This is because many of the lists used to suggest field entries are saved within the client rather than the database: any change or addition you make will only save to the file you use.
 
+### Enable content
+
+The database makes use of macros behind the scenes, and by default Microsoft will block access to them. To enable macros, open the UNDb Client and close the login screen, but do not close the Microsoft Access window. Navigate to `File > Options > Trust Center > Trust Center Settings > Trusted Locations`, and click on `Add new location...`. In the window which pops up, enter the location of the folder where the UNDb Client is located (e.g. `C:\Users\<your username>\University of Bristol\grp-UNDT Group - Documents\UNDb`). Click `OK` to save the location, close Microsoft Access and reopen the client. You may see a yellow warning banner in Microsoft Access, in which case click `Enable Content`, reopen the client again and you will be able to log in.`
+
+<img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/trustcenter.png">
+
 ### Make sure you have a UNDb login
 
 The login needed to access the UNDb will not be the same as your UoB account. If you have not yet received a login, please email [Matt](mailto:m.chandler@bristol.ac.uk) to get one.
