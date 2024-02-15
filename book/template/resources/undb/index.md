@@ -30,7 +30,7 @@ Note that you must always access the database from this file on the Sharepoint r
 
 ### Enable content
 
-The database makes use of macros behind the scenes, and by default Microsoft will block access to them. To enable macros, open the UNDb Client and close the login screen, but do not close the Microsoft Access window. Navigate to `File > Options > Trust Center > Trust Center Settings > Trusted Locations`, and click on `Add new location...`. In the window which pops up, enter the location of the folder where the UNDb Client is located (e.g. `C:\Users\<your username>\University of Bristol\grp-UNDT Group - Documents\UNDb`). Click `OK` to save the location, close Microsoft Access and reopen the client. You may see a yellow warning banner in Microsoft Access, in which case click `Enable Content`, reopen the client again and you will be able to log in.`
+The database makes use of macros behind the scenes, and by default Microsoft will block access to them. To enable macros, open the UNDb Client and close the login screen, but do not close the Microsoft Access window. Navigate to `File > Options > Trust Center > Trust Center Settings > Trusted Locations`, and click on `Add new location...`. In the window which pops up, enter the location of the folder where the UNDb Client is located (e.g. `C:\Users\<your username>\University of Bristol\grp-UNDT Group - Documents\UNDb`). Click `OK` to save the location, close Microsoft Access and reopen the client. You may see a yellow warning banner in Microsoft Access, in which case click `Enable Content`, reopen the client again and you will be able to log in.
 
 <img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/trustcenter.png">
 
