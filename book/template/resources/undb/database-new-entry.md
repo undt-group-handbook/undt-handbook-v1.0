@@ -62,7 +62,9 @@ Any sample which is present in the lab for any length of time (i.e. not short-te
 
 <img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/printer.jpg">
 
-After creating an entry, print a label by connecting the Brother P-700 label printer to your PC. Ensure that the P-lite button is off (i.e. the LED is switched off), and click the "Print label" button. Select the "Brother P-700" printer and open the "Properties" to set up the print.
+After creating an entry, you will need to print a label using the Brother P-700 label printer. At the time of writing this guide, we keep two kinds of printer tape: strong adhesive (TZe S251), to be used specifically for samples which may be immersed in water for inspection; and regular (TZe 251), to be used with any samples which will never require immersion. Regular tape may also be used with borrowed samples as the adhesive is less strong, so the label is easier to remove.
+
+Connect the printer to your PC with the USB cable. Ensure that the P-lite button is off (i.e. the LED is switched off), and click the "Print label" button. Select the "Brother P-700" printer and open the "Properties" to set up the print.
 
 <img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/print_screen.png">
 
