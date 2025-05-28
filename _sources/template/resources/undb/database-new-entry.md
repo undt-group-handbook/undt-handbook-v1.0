@@ -50,3 +50,30 @@ An outline of what makes a useful sample record is listed below:
 	Additional files which are useful to have reference to. Note that these should be small files (e.g. a photo, pdf drawing), any extensive data associated with the sample should be stored elsewhere (e.g. RDSF, Sharepoint) and a link to it provided in the description.
 
 After you have entered the details for a sample, a unique ID and barcode will be generated for this sample. If the barcode is not generated, you will need to install an additional font to your system. Download the font from the folder `UNDb\extra files` on the [Sharepoint](https://uob.sharepoint.com/teams/grp-UNDTGroup/Shared%20Documents/Forms/AllItems.aspx), and install it on your system by opening `Fonts` in your `Settings`, and dragging the font file `IDAutomationHC39M Free Version.ttf` into the `Add fonts` box.
+
+
+
+## Printing labels
+
+The label printer can be used to print out labels which should be attached to all samples which are present in the lab, to keep track of ownership and work which has been previously completed with each sample.
+
+Any sample which is present in the lab for any length of time (i.e. not short-term borrowing!) should be in the database with the relevant fields filled. For example, if you have a sample which is borrowed from a sponsor company for a period of months, this should be entered into the database with the "Researcher" and "Supplier" fields filled as a minimum.
+(Note that the following information is also available by clicking the "?" button next to "Print label" when viewing a sample entry.)
+
+<img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/printer.jpg">
+
+After creating an entry, you will need to print a label using the Brother P-700 label printer. At the time of writing this guide, we keep two kinds of printer tape: strong adhesive (TZe S251), to be used specifically for samples which may be immersed in water for inspection; and regular (TZe 251), to be used with any samples which will never require immersion. Regular tape may also be used with borrowed samples as the adhesive is less strong, so the label is easier to remove.
+
+Connect the printer to your PC with the USB cable. Ensure that the P-lite button is off (i.e. the LED is switched off), and click the "Print label" button. Select the "Brother P-700" printer and open the "Properties" to set up the print.
+
+<img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/print_screen.png">
+
+In the "Basic" tab, ensure the "Length" field is set to 45mm, and in the "Advanced" tab ensure that "Text" is selected. You may now close the "Properties" window.
+
+<img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/basic_settings.png">
+
+<img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/advanced_settings.png">
+
+Open the "Setup" window, and ensure that all of the margins are set to 0mm. You may now close the "Setup" window, and print the label.
+
+<img align="center" src="https://raw.githubusercontent.com/undt-group-handbook/undt-handbook-v1.0/main/book/template/resources/undb/page_setup.png">
