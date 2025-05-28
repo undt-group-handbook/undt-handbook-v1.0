@@ -2,7 +2,7 @@
 
 The UNDT Sample Database, or UNDb, is a tool developed for the UNDT Group in collaboration with the [Solid Mechanics Research Group (SMRG)](https://www.bristol.ac.uk/engineering/research/solids/). It is hosted by the [Research Data Storage Facility (RDSF)](https://www.bristol.ac.uk/acrc/research-data-storage-facility/) and is accessible from a Microsoft Access client saved on the [Sharepoint](https://uob.sharepoint.com/:f:/r/teams/grp-UNDTGroup/Shared%20Documents/UNDb). It contains data relating to every sample we have stored in the lab, including material, defect types, some experimental data, etc.
 
-The person currently responsible for maintaining the database is [Matt Chandler](mailto:m.chandler@bristol.ac.uk).
+The person currently responsible for maintaining the database is [Paul Wilcox](mailto:p.wilcox@bristol.ac.uk).
 
 ## How to get started
 
