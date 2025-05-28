@@ -10,7 +10,9 @@ These may only be edited by other users who have access to the backend Access da
 
 The user resposible for maintaining the database has the responsibility for adding new user accounts when needed. Accounts are largely used in the event of bugs and errors, to track what may have raised issues a specific user is facing.
 
-New users may not be added via the client, and may be added in the database stored on the RDSF. Load the database and enter the password, and load the "Users" table. Add a new entry for the new user, and provide them with the username and password.
+First, ensure that the user has access to the UNDT RDSF folder. Data stewards and deputy data stewards have the ability to add new users via the [RDSF website](https://data-bris.acrc.bris.ac.uk). Once added, the user may map the drive as a network location.
+
+Access to the UNDb for new users may not be provided the client, but must be added in the database stored on the RDSF. Load the database and enter the password, and open the "Users" table. Add a new entry for the new user, and provide them with the username and password.
 
 
 
