@@ -2,7 +2,7 @@
 
 The UNDT Sample Database, or UNDb, is a tool developed for the UNDT Group in collaboration with the [Solid Mechanics Research Group (SMRG)](https://www.bristol.ac.uk/engineering/research/solids/). It is hosted by the [Research Data Storage Facility (RDSF)](https://www.bristol.ac.uk/acrc/research-data-storage-facility/) and is accessible from a Microsoft Access client saved on the [Sharepoint](https://uob.sharepoint.com/:f:/r/teams/grp-UNDTGroup/Shared%20Documents/UNDb). It contains data relating to every sample we have stored in the lab, including material, defect types, some experimental data, etc.
 
-The person currently responsible for maintaining the database is [Paul Wilcox](mailto:p.wilcox@bristol.ac.uk).
+The person currently responsible for maintaining the database is [Matt Chandler](mailto:m.chandler@bristol.ac.uk).
 
 ## How to get started
 
@@ -10,7 +10,7 @@ The UNDb uses Microsoft Access to store and access the sample database. Usually 
 
 ### Map the UNDT RDSF folder as a network location
 
-These instructions can also be found on the [RDSF website](https://www.bristol.ac.uk/acrc/research-data-storage-facility/how-to-access-the-rdsf/). You will need to make sure that you have been added to the project by the data steward: for the UNDT project, this is [Paul Wilcox](mailto:p.wilcox@bristol.ac.uk), and make sure that you have the [VPN](https://www.bris.ac.uk/it-services/advice/homeusers/uobonly/uobvpn/howto/) installed and running if you are not on campus.
+These instructions can also be found on the [RDSF website](https://www.bristol.ac.uk/acrc/research-data-storage-facility/accessing-the-rdsf/). You will need to make sure that you have been added to the project by the data steward: for the UNDT project, this is [Paul Wilcox](mailto:p.wilcox@bristol.ac.uk), and make sure that you have the [VPN](https://www.bris.ac.uk/it-services/advice/homeusers/uobonly/uobvpn/howto/) installed and running if you are not on campus.
 
 From Windows 10, navigate to `This PC`, and select `Map network drive` on the `Computer` tab.
 
